@@ -1,0 +1,44 @@
+
+   .car-booking-form {
+    max-width: 1000px; /* Increase the max-width to make the form wider */
+    margin: 0 auto;
+    padding: 60px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .car-booking-form h2 {
+    text-align: center;
+  }
+  
+  .car-booking-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .car-booking-form input[type='text'],
+  .car-booking-form input[type='email'],
+  .car-booking-form input[type='tel'],
+  .car-booking-form input[type='date'] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .car-booking-form button[type='submit'] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .car-booking-form button[type='submit']:hover {
+    background-color: #45a049;
+  }
+  
