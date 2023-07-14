@@ -1,0 +1,76 @@
+/* .AboutUs{
+    width: 100%;
+    margin-top: 0px;
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+    position: relative;
+} */
+/* .about-bg{
+      flex-grow: 1;
+      background: url("black-gradient.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      min-height: 100vh;
+      overflow: hidden;
+} */
+.about-box{
+    background-color: gainsboro;
+    width: 600px;
+    height: 450px;
+    padding:10px;
+  
+}
+.about-text{
+    margin-top: 9px;
+    margin-left: 10px;
+}
+.head-text{
+    font-size: 3.4em;
+    padding-left: 180px;
+    font-weight: bolder;
+}
+
+.features {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+  }
+
+  
+  
+  .img1 {
+    background: url("download3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 70px;
+    margin-right: 80px;
+    padding: 20px;;
+  }
+  .img2 {
+    background: url("mech.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-right: 10px;
+    padding: 20px;;
+  }
+  /* .img3 {
+    background: url("mech2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 70px;
+    margin-right: 10px;
+    padding: 20px;;
+  } */
+  
